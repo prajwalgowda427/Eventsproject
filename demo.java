@@ -1,5 +1,5 @@
 public class demo{
     int a=30;
-    int b=40;
+    int b=140;
     int c=110;
 }
